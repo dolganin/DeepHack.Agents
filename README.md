@@ -25,3 +25,11 @@ pip3 install -r requirements.txt
 playwright install
 playwright install-deps
 ```
+
+
+## Запуск
+```python
+python3 crew_ai.py
+# После этого необходимо ввести ваш запрос для нашей команды
+```
+
