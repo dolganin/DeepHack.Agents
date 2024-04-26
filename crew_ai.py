@@ -161,5 +161,5 @@ class AIAssistant:
 
 if __name__ == "__main__":
     assistant = AIAssistant()
-    msg = str(input())
+    msg = "Хочу находить лица людей на фотографии с помощью нейронки"
     assistant(msg)
